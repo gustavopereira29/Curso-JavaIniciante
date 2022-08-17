@@ -1,4 +1,4 @@
-Olá, este curso tem carga horária de 30 horas ministrada por Gabriel Artigas na plataforma Udemy
+Olá, este curso sobre Java tem carga horária de 30 horas ministrada por Gabriel Artigas na plataforma Udemy
 
 Aqui estão os tópicos que estão sendo abordados durante o curso
 
